@@ -1,11 +1,11 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm Yassine, a Web and Mobile Developer just graduated at University of Milan in December 2020.  
 Currently I'm more skilled as a Frontend Developer but I'm trying to improve my knowledge of the Backend side as well.  
 
 
 
-# My Values
+## My Values
 
 * Mindset of learning & expand my knowledge  
 * Determinated & autonomous by nature  
