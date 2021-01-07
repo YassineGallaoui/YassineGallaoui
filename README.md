@@ -5,7 +5,7 @@ Currently I'm more skilled as a Frontend Developer but I'm trying to improve my 
 
 
 
-## My Values
+# My Values
 
 * Mindset of learning & expand my knowledge  
 * Determinated & autonomous by nature  
