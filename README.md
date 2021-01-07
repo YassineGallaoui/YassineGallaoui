@@ -7,10 +7,10 @@ Currently I'm more skilled in Frontend Development but I'm trying to improve my 
 
 ## My Values
 
-Mindset of learning & expand my knowledge  
-Determinated & autonomous by nature  
-Teamwork to share, help & improve  
-Regardless of everything, never give up  
+* Mindset of learning & expand my knowledge  
+* Determinated & autonomous by nature  
+* Teamwork to share, help & improve  
+* Regardless of everything, never give up  
 
 
 ## How to reach me
