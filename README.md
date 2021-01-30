@@ -18,4 +18,4 @@ Currently I'm more skilled as a Frontend Developer but I'm trying to improve my 
 
 * [LinkedIn](https://www.linkedin.com/in/mohamed-yassine-gallaoui/)
 * [Portfolio](https://www.yassinegallaoui.info)
-* [Mail](22yassine05@gmail.com)
+* Mail: 22yassine05@gmail.com
