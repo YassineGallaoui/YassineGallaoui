@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm Yassine, a Web and Mobile Developer graduated at University of Milan in December 2020.  
-Currently I work for Once Upon A Time Solutions SA, based in Mendrisio, Switzerland.
+Currently I am looking for a new job opportunity.
 
 
 
