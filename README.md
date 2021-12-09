@@ -1,7 +1,8 @@
 # Hi there 👋
 
 I'm Yassine, a Web and Mobile Developer graduated at University of Milan in December 2020.  
-Currently I am looking for a new job opportunity.
+I worked as frontend developer for a digital agency based in Mendrisio, Switzerland.
+Now I am looking for a new opportunity.
 
 
 
