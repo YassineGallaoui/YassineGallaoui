@@ -7,10 +7,10 @@ Currently I am looking for a new job opportunity.
 
 ## My Values
 
-* Mindset of learning & expand my knowledge  
-* Determinated & autonomous by nature  
-* Teamwork to share, help & improve  
-* Regardless of everything, never give up  
+* Mindset: learn & expand my knowledge
+* Determinated & autonomous
+* Teamwork to share, help & improve
+* Regardless of everything, never give up
 
 
 ## How to reach me
