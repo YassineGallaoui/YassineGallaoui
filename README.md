@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm Yassine, a Web and Mobile Developer graduated at University of Milan in December 2020.  
-I worked as frontend developer for a digital agency based in Mendrisio, Switzerland.
+I worked as Frontend Developer for a digital agency based in Mendrisio, Switzerland.
 Now I am looking for a new opportunity.
 
 
@@ -9,9 +9,9 @@ Now I am looking for a new opportunity.
 ## My Values
 
 * Mindset: learn & expand my knowledge
-* Determinated & autonomous
-* Teamwork to share, help & improve
-* Regardless of everything, never give up
+* Proactive, determined & autonomous
+* Teamwork -> share, help & improve
+* Never give up
 
 
 ## How to reach me
