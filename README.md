@@ -7,11 +7,11 @@ When I am not working you could find me coding side projects, reading, drawing, 
 
 
 ## My Technical Skills
-Frontend dev: HTML, CSS, SCSS, Bootstrap, Javascript, jQuery, React, Next.js  
-Backend dev: Node.js, php, express.js, PostgreSQL, MongoDB  
-Versioning: git, GitHub  
-Mobile dev: Android Studio, PhoneGap, Java  
-Content creation: Adobe Illustrator, Adobe Premiere, Da Vinci Resolve  
+**Frontend dev**: HTML, CSS, SCSS, Bootstrap, Javascript, jQuery, React, Next.js  
+**Backend dev**: Node.js, php, express.js, PostgreSQL, MongoDB  
+**Versioning**: git, GitHub  
+**Mobile dev**: Android Studio, PhoneGap, Java  
+**Content creation**: Adobe Illustrator, Adobe Premiere, Da Vinci Resolve  
 
 ## My Values
 
