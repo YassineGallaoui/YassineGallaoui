@@ -1,10 +1,17 @@
 # Hi there 👋
 
-I'm Yassine, a Web and Mobile Developer graduated at University of Milan in December 2020.  
-I worked as Frontend Developer for a digital agency based in Mendrisio, Switzerland.
-Now I am looking for a new opportunity.
+I'm Yassine, a Web and Mobile Developer.  
+I worked as Frontend Developer for a digital agency based in Mendrisio (Switzerland).  
+Now I work as a Campaign Automation Developer at Deloitte.  
+When I am not working you could find me coding side projects, reading, drawing, randomly surfing the internet, watching or playing a football match or, rarely, playing videogames.  
 
 
+## My Technical Skills
+Frontend dev: HTML, CSS, SCSS, Bootstrap, Javascript, jQuery, React, Next.js
+Backend dev: Node.js, php, express.js, PostgreSQL, MongoDB
+Versioning: git, GitHub
+Mobile dev: Android Studio, PhoneGap, Java
+Content creation: Adobe Illustrator, Adobe Premiere, Da Vinci Resolve
 
 ## My Values
 
