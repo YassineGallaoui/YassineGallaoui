@@ -7,6 +7,7 @@ When I am not working you could find me coding side projects, reading, drawing, 
 
 
 ## My Technical Skills
+
 **Frontend dev**: HTML, CSS, SCSS, Bootstrap, Javascript, jQuery, React, Next.js  
 **Backend dev**: Node.js, php, express.js, PostgreSQL, MongoDB  
 **Versioning**: git, GitHub  
@@ -15,10 +16,9 @@ When I am not working you could find me coding side projects, reading, drawing, 
 
 ## My Values
 
-* Mindset: learn & expand my knowledge
-* Proactive, determined & autonomous
-* Teamwork -> share, help & improve
-* Never give up
+* Work Principles: professionalism, meritocracy
+* Work Attitude: proactive, determined, autonomous, team worker
+* Mindset: be curious, learn, expand my knowledge
 
 
 ## How to reach me
