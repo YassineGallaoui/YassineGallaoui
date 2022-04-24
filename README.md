@@ -2,8 +2,8 @@
 
 I'm Yassine, a Web and Mobile Developer.  
 I worked as Frontend Developer for a digital agency based in Mendrisio (Switzerland).  
-Now I work as a Campaign Automation Developer at Deloitte.  
-When I am not working you could find me coding side projects, reading, drawing, randomly surfing the internet, watching or playing a football match or, rarely, playing videogames.  
+I also worked as a Campaign Automation Developer at Deloitte, before switching to a full-stack developer role.  
+When I am not working you could find me coding side projects, reading, drawing, randomly surfing the internet, watching or playing football or, rarely, playing videogames.  
 
 
 ## My Technical Skills
