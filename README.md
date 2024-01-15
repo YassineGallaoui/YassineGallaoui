@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm Yassine, a Software Engineer, highly specialized on Frontend development.  
-I worked as Frontend Developer for a digital agency based in Mendrisio (Switzerland) for approximately 1 year.
+I worked as Frontend Developer for a digital agency based in Mendrisio (Switzerland) for approximately 1 year.  
 Then, from February 2022 till December 2024, I worked as Full Stack developer for Deloitte, in Milan, Italy.  
 
 When I am not working probably you will find me coding side projects, reading, randomly surfing the internet, watching or playing football or videogames.  
