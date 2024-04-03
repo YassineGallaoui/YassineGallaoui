@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Yassine, an Italian-Tunisian Software Engineer, highly specialized on Frontend development with 4+ years on the field.  
+I'm Yassine, an Italian-Tunisian Software Engineer, highly specialized on Frontend development with ~4 years on the field.  
 After obtaining my Bachelor's degree in Computer Science, I worked as Frontend Developer for a digital agency based in Mendrisio (Switzerland) for approximately 1 year.  
 Then, from February 2022 till December 2024, I worked as Full Stack developer for Deloitte, in Milan, Italy.  
 
