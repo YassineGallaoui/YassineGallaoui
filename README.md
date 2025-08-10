@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Yassine, an Software Engineer, highly specialized on Frontend development with ~4 years on the field.  
+I'm Yassine, an Software Engineer, highly specialized on Frontend development with ~5 years on the field.  
 Check last projects in [my portfolio](https://www.yassinegallaoui.com).
 
 
@@ -8,4 +8,4 @@ Check last projects in [my portfolio](https://www.yassinegallaoui.com).
 
 
 * [LinkedIn](https://www.linkedin.com/in/mohamed-yassine-gallaoui/)
-* Mail: myassine.gallaoui@gmail.com
+* Mail: yassine.gallaoui.dev@gmail.com
