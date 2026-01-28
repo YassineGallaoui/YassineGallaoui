@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Yassine, a Frontend development with ~5 exp years on the field and great interest for design and motion.  
+I'm Yassine, frontend developer with ~5 exp years on the field and great interest for design and motion.  
 Check services and last projects in [my portfolio](https://www.yassinegallaoui.com).
 
 
